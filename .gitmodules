@@ -1,0 +1,3 @@
+[submodule "assets/reveal.js"]
+	path = assets/reveal.js
+	url = https://gitlab.com/mirenbz/reveal.js.git
