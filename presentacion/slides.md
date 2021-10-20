@@ -2,7 +2,7 @@
 title: Guía para la presentación de trabajos académicos escritos
 subtitle: Sesión de presentación
 theme: mbzdeusto
-revealjs-url: assets/reveal.js
+revealjs-url: ../assets/reveal.js
 center: true
 foot_left: ""
 noborder: true
