@@ -286,7 +286,7 @@ Ancla. Opcionalmente, un URL puede hacer referencia a una parte específica del 
 >- Presenta tanto DOIs como URLs en formato URL (DOIs precedidos de `https://doi.org/`).
 >- Formato consistente (con o sin subrayado), enlaces funcionales
 >- Utiliza siempre el URL directo a un documento. <span class="hl">Un URL de un resultado de búsqueda no es válido</span>.
->- Elimina los parámetros de seguimeinto del URL
+>- Elimina los parámetros de seguimiento del URL
 >- Copia y pega de la barra de direcciones para evitar errores. Comprueba siempre que devuelve el documento que pretendes referenciar. 
 
 ## {data-background-image="img/books.jpg"}
