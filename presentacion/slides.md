@@ -28,7 +28,7 @@ Descarga:
 <span class="iconify" data-icon="mdi:page-layout-body"></span> [Archivo plantilla](http://deustokom-lab.deusto.es/gida-guia/txantiloia-plantilla.dotx)
 </div>
 <div style="clear:both;"></div>
-[http://deustokom-lab.deusto.es/gida-guia/](http://deustokom-lab.deusto.es/gida-guia/)
+[https://lab.deustokom.news/gida-guia/](https://lab.deustokom.news/gida-guia/)
 
 ---
 
