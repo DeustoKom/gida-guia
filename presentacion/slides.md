@@ -19,7 +19,7 @@ color: '#4c566a'
 Antes de empezar...
 
 <div style="width:39%; float:left;">
-[![](img/lab-qr.svg)](http://deustokom-lab.deusto.es/gida-guia/)
+[![](img/lab-qr.png)](https://lab.deustokom.news/gida-guia/)
 </div>
 <div class="left" style="float:right; width:60%;">
 Descarga:
