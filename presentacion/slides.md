@@ -21,7 +21,7 @@ Antes de empezar...
 <div style="width:25%; float:left;">
 [![](img/lab-qr.png)](https://lab.deustokom.news/gida-guia/)
 </div>
-<div class="left" style="float:right; width:74%;">
+<div class="left" style="float:right; width:70%;padding-top:1em;">
 Descarga:
 
 <span class="iconify" data-icon="mdi:file-document-outline"></span> [Guía para la presentación de trabajos académicos escritos](http://deustokom-lab.deusto.es/gida-guia/GuiaPresentacionTrabajos.pdf)  
